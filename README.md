@@ -1,3 +1,8 @@
+# Login Pass
+
+user: syedali.ahmed@systemsltd.com
+pass: Test.1234
+
 # Ecom Storefront
 
 Description: A customer-facing (B2C) e-commerce storefront built with Next.js and Supabase.
